@@ -2,7 +2,7 @@
 
 ## Description
 
-This project creates a Solidity contract that accepts to ethereum addresses for the automation of join savings account creation.
+This project creates a Solidity contract that accepts two ethereum addresses for the automation of join savings account creation.
 
 ## Software Requirements
 
